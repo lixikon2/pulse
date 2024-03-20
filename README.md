@@ -15,7 +15,7 @@ git clone https://github.com/<your user>/<repo name>.git
 git status
 ```
 
-3. Create new branch 
+3. Create new branch
 
 ```bash
 git checkout -b alex/modify-files
@@ -42,7 +42,7 @@ git branch -a
 7. Checkout main
 
 ```bash
-git checkout main 
+git checkout main
 ```
 
 8. Index new and modified files
